@@ -11,6 +11,20 @@ Use this script for the analysis of data from the growth experiments.
 4. Put the data to be analysed into the `data` folder
 5. Open the script and click on "Run all"
 
+### Create a plate_layout.json
+
+```json
+[
+  {
+    "condition": "",
+    "strain": "",
+    "medium": "",
+    "replicate": "",
+    "well": ""
+  }
+]
+```
+
 ## Troubleshooting
 
 tbd, contact He Hai or Timon (mail@timonschneider.de)
