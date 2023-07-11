@@ -14,6 +14,7 @@ def run_plotting_pipeline(
     media: list[str],
     groupby: Literal["strain", "condition", "medium"],
     path_to_plate_layout: str = "data/plate_layout.json",
+    y_scale_type: Literal["linear", "log"] = "linear",
 ):
     import json
     from matplotlib import pyplot as plt
@@ -73,7 +74,11 @@ def run_plotting_pipeline(
     )
 
     plot_config = PlotConfig(
-        y_scale="linear", x_max=None, y_max=None, save_plot_as="png", is_mean_plot=True
+        y_scale=y_scale_type,
+        x_max=None,
+        y_max=None,
+        save_plot_as="png",
+        is_mean_plot=True,
     )
 
     plt.close("all")  # close all graph windows
