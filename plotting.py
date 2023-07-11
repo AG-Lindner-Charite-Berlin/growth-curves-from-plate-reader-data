@@ -8,7 +8,8 @@ from models import GrowthCurveConfig, Experiment, PlotConfig
 
 def run_plotting_pipeline(
     plot_title,
-    path_to_raw_data,
+    path_to_raw_data: str,
+    path_to_plate_layout: str,
     conditions: list[str],
     strains: list[str],
     media: list[str],
@@ -20,7 +21,7 @@ def run_plotting_pipeline(
     from plotting import plot_no_numbers
 
     # load plate layout
-    with open("data/plate_layout.json", "r") as f:
+    with open(path_to_plate_layout, "r") as f:
         plate_layout = json.load(f)
 
     # filter plate layout by conditions
