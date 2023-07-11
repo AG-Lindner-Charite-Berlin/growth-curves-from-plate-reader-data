@@ -9,11 +9,11 @@ from models import GrowthCurveConfig, Experiment, PlotConfig
 def run_plotting_pipeline(
     plot_title,
     path_to_raw_data: str,
-    path_to_plate_layout: str,
     conditions: list[str],
     strains: list[str],
     media: list[str],
     groupby: Literal["strain", "condition", "medium"],
+    path_to_plate_layout: str = "data/plate_layout.json",
 ):
     import json
     from matplotlib import pyplot as plt
