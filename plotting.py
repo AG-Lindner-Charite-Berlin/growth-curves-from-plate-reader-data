@@ -80,10 +80,14 @@ def run_plotting_pipeline(
 
     plt.subplots_adjust(right=0.65, top=1.1)
 
+    # get parent folder of path_to_raw_data
+    parent_folder = "/".join(path_to_raw_data.split("/")[:-1])
+
     # plot the growth curves
     plot_no_numbers(
         experiment=experiment,
         plot_config=plot_config,
+        path_to_plot_img=f"{parent_folder}/plots",
     )
 
 
@@ -251,19 +255,16 @@ def plot_wells(wells, data):
         print("Please enter valid wells, e.g. ['A1','A2','A3']")
 
 
-def plot_no_numbers(experiment: Experiment, plot_config: PlotConfig) -> None:
-    """Plot growth curves without numbers on the plot.
+def plot_no_numbers(
+    experiment: Experiment, plot_config: PlotConfig, path_to_plot_img: str
+) -> None:
+    """Plot growth curves without numbers on the plot."""
 
-    Args:
-        data (pd.DataFrame): data to plot
-        title (str): title of the plot
-        growth_curve_configs (list[GrowthCurveConfig]): list of GrowthCurveConfig
-        is_mean_plot (bool): whether to plot mean or all growth curves
-        y_scale (Literal["linear", "log", "symlog", "logit"]): y-axis scale
-        x_max (float | None): maximum value of x-axis
-        y_max (float | None): maximum value of y-axis
-        save_plot_as (str, optional): file format to save the plot. Defaults to "no".
-    """
+    # check if the path to save the plot exists if not create it
+    import os
+
+    if not os.path.exists(path_to_plot_img):
+        os.makedirs(path_to_plot_img)
 
     # ploting all/mean
     fig, ax = plt.subplots(figsize=(20, 10))
@@ -338,6 +339,6 @@ def plot_no_numbers(experiment: Experiment, plot_config: PlotConfig) -> None:
     # save figure if file format is specified
     if plot_config.save_plot_as != "no":
         fig.savefig(
-            f"{'mean' if plot_config.is_mean_plot else 'all'}_{get_valid_filename(experiment.title)}.{plot_config.save_plot_as}",
+            f"{path_to_plot_img}/{'mean' if plot_config.is_mean_plot else 'all'}_{get_valid_filename(experiment.title)}.{plot_config.save_plot_as}",
             dpi=300,
         )
