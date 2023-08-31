@@ -1,1 +1,674 @@
-[{"condition": "Ace30", "strain": "MiniKat #1", "medium": "MX", "replicate": "1", "well": "A1"}, {"condition": "Ace30", "strain": "MiniKat #1", "medium": "MX", "replicate": "2", "well": "A2"}, {"condition": "Suc15", "strain": "MiniKat #1", "medium": "MX", "replicate": "1", "well": "A3"}, {"condition": "Suc15", "strain": "MiniKat #1", "medium": "MX", "replicate": "2", "well": "A4"}, {"condition": "Gly20", "strain": "MiniKat #1", "medium": "MX", "replicate": "1", "well": "A5"}, {"condition": "Gly20", "strain": "MiniKat #1", "medium": "MX", "replicate": "2", "well": "A6"}, {"condition": "Glc10", "strain": "MiniKat #1", "medium": "MX", "replicate": "1", "well": "A7"}, {"condition": "Glc10", "strain": "MiniKat #1", "medium": "MX", "replicate": "2", "well": "A8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat #1", "medium": "MX", "replicate": "1", "well": "A9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat #1", "medium": "MX", "replicate": "2", "well": "A10"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat #1", "medium": "MX", "replicate": "1", "well": "A11"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat #1", "medium": "MX", "replicate": "2", "well": "A12"}, {"condition": "Ace30", "strain": "MiniKat p165", "medium": "MX", "replicate": "1", "well": "B1"}, {"condition": "Ace30", "strain": "MiniKat p165", "medium": "MX", "replicate": "2", "well": "B2"}, {"condition": "Suc15", "strain": "MiniKat p165", "medium": "MX", "replicate": "1", "well": "B3"}, {"condition": "Suc15", "strain": "MiniKat p165", "medium": "MX", "replicate": "2", "well": "B4"}, {"condition": "Gly20", "strain": "MiniKat p165", "medium": "MX", "replicate": "1", "well": "B5"}, {"condition": "Gly20", "strain": "MiniKat p165", "medium": "MX", "replicate": "2", "well": "B6"}, {"condition": "Glc10", "strain": "MiniKat p165", "medium": "MX", "replicate": "1", "well": "B7"}, {"condition": "Glc10", "strain": "MiniKat p165", "medium": "MX", "replicate": "2", "well": "B8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p165", "medium": "MX", "replicate": "1", "well": "B9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p165", "medium": "MX", "replicate": "2", "well": "B10"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat p165", "medium": "MX", "replicate": "1", "well": "B11"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat p165", "medium": "MX", "replicate": "2", "well": "B12"}, {"condition": "Ace30", "strain": "MiniKat p183", "medium": "MX", "replicate": "1", "well": "C1"}, {"condition": "Ace30", "strain": "MiniKat p183", "medium": "MX", "replicate": "2", "well": "C2"}, {"condition": "Suc15", "strain": "MiniKat p183", "medium": "MX", "replicate": "1", "well": "C3"}, {"condition": "Suc15", "strain": "MiniKat p183", "medium": "MX", "replicate": "2", "well": "C4"}, {"condition": "Gly20", "strain": "MiniKat p183", "medium": "MX", "replicate": "1", "well": "C5"}, {"condition": "Gly20", "strain": "MiniKat p183", "medium": "MX", "replicate": "2", "well": "C6"}, {"condition": "Glc10", "strain": "MiniKat p183", "medium": "MX", "replicate": "1", "well": "C7"}, {"condition": "Glc10", "strain": "MiniKat p183", "medium": "MX", "replicate": "2", "well": "C8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p183", "medium": "MX", "replicate": "1", "well": "C9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p183", "medium": "MX", "replicate": "2", "well": "C10"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat p183", "medium": "MX", "replicate": "1", "well": "C11"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat p183", "medium": "MX", "replicate": "2", "well": "C12"}, {"condition": "Ace30", "strain": "MiniKat p184", "medium": "MX", "replicate": "1", "well": "D1"}, {"condition": "Ace30", "strain": "MiniKat p184", "medium": "MX", "replicate": "2", "well": "D2"}, {"condition": "Suc15", "strain": "MiniKat p184", "medium": "MX", "replicate": "1", "well": "D3"}, {"condition": "Suc15", "strain": "MiniKat p184", "medium": "MX", "replicate": "2", "well": "D4"}, {"condition": "Gly20", "strain": "MiniKat p184", "medium": "MX", "replicate": "1", "well": "D5"}, {"condition": "Gly20", "strain": "MiniKat p184", "medium": "MX", "replicate": "2", "well": "D6"}, {"condition": "Glc10", "strain": "MiniKat p184", "medium": "MX", "replicate": "1", "well": "D7"}, {"condition": "Glc10", "strain": "MiniKat p184", "medium": "MX", "replicate": "2", "well": "D8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p184", "medium": "MX", "replicate": "1", "well": "D9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p184", "medium": "MX", "replicate": "2", "well": "D10"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat p184", "medium": "MX", "replicate": "1", "well": "D11"}, {"condition": "Glc40 + Ace10 + PQQ", "strain": "MiniKat p184", "medium": "MX", "replicate": "2", "well": "D12"}, {"condition": "Ace30", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "E1"}, {"condition": "Ace30", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "E2"}, {"condition": "Suc15", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "E3"}, {"condition": "Suc15", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "E4"}, {"condition": "Gly20", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "E5"}, {"condition": "Gly20", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "E6"}, {"condition": "Glc10", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "E7"}, {"condition": "Glc10", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "E8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "E9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat #1", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "E10"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat #1", "medium": "MX", "replicate": "1", "well": "E11"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat #1", "medium": "MX", "replicate": "2", "well": "E12"}, {"condition": "Ace30", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "F1"}, {"condition": "Ace30", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "F2"}, {"condition": "Suc15", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "F3"}, {"condition": "Suc15", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "F4"}, {"condition": "Gly20", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "F5"}, {"condition": "Gly20", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "F6"}, {"condition": "Glc10", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "F7"}, {"condition": "Glc10", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "F8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "F9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p165", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "F10"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat p165", "medium": "MX", "replicate": "1", "well": "F11"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat p165", "medium": "MX", "replicate": "2", "well": "F12"}, {"condition": "Ace30", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "G1"}, {"condition": "Ace30", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "G2"}, {"condition": "Suc15", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "G3"}, {"condition": "Suc15", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "G4"}, {"condition": "Gly20", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "G5"}, {"condition": "Gly20", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "G6"}, {"condition": "Glc10", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "G7"}, {"condition": "Glc10", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "G8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "G9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p183", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "G10"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat p183", "medium": "MX", "replicate": "1", "well": "G11"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat p183", "medium": "MX", "replicate": "2", "well": "G12"}, {"condition": "Ace30", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "H1"}, {"condition": "Ace30", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "H2"}, {"condition": "Suc15", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "H3"}, {"condition": "Suc15", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "H4"}, {"condition": "Gly20", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "H5"}, {"condition": "Gly20", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "H6"}, {"condition": "Glc10", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "H7"}, {"condition": "Glc10", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "H8"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "1", "well": "H9"}, {"condition": "Glc10 + Ace10", "strain": "MiniKat p184", "medium": "MX + 250uM IPTG", "replicate": "2", "well": "H10"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat p184", "medium": "MX", "replicate": "1", "well": "H11"}, {"condition": "Glc10 + Acn10", "strain": "MiniKat p184", "medium": "MX", "replicate": "2", "well": "H12"}]
+[
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "A1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "A2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "A3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "A4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "A5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "A6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "A7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "A8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "A9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "A10"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "A11"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "A12"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "B1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "B2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "B3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "B4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "B5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "B6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "B7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "B8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "B9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "B10"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "B11"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "B12"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "C1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "C2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "C3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "C4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "C5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "C6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "C7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "C8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "C9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "C10"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "C11"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "C12"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "D1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "D2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "D3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "D4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "D5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "D6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "D7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "D8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "D9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "D10"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "D11"
+  },
+  {
+    "condition": "Glc40 + Ace10 + PQQ",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "D12"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "E1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "E2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "E3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "E4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "E5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "E6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "E7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "E8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "E9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat #1",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "E10"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "E11"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat #1",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "E12"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "F1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "F2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "F3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "F4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "F5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "F6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "F7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "F8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "F9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p165",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "F10"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "F11"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat p165",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "F12"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "G1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "G2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "G3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "G4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "G5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "G6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "G7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "G8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "G9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p183",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "G10"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "G11"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat p183",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "G12"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "H1"
+  },
+  {
+    "condition": "Ace30",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "H2"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "H3"
+  },
+  {
+    "condition": "Suc15",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "H4"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "H5"
+  },
+  {
+    "condition": "Gly20",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "H6"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "H7"
+  },
+  {
+    "condition": "Glc10",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "H8"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "1",
+    "well": "H9"
+  },
+  {
+    "condition": "Glc10 + Ace10",
+    "strain": "MiniKat p184",
+    "medium": "MX + 250uM IPTG",
+    "replicate": "2",
+    "well": "H10"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "1",
+    "well": "H11"
+  },
+  {
+    "condition": "Glc10 + Acn10",
+    "strain": "MiniKat p184",
+    "medium": "MX",
+    "replicate": "2",
+    "well": "H12"
+  }
+]
