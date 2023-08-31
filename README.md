@@ -1,4 +1,4 @@
-# growth-figures
+# growth-curves-from-plate-reader-data
 
 Plot growth figures in a few lines of code:
 ![Alt text](docs/banner.png)
