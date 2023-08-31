@@ -1,6 +1,7 @@
 # growth-figures
 
-Use this script for the analysis of data from the growth experiments.
+Plot growth figures in a few lines of code:
+![Alt text](docs/banner.png)
 
 ## How to Use
 
