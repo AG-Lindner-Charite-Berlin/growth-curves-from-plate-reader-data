@@ -9,40 +9,21 @@ Use this script for the analysis of data from the growth experiments.
 2. Open the folder of this repository in your terminal.
 3. Run `pip install -r requirements.txt` to install all required packages.
 4. Create a folder called `data` and put all raw data to be analysed into this folder
-5. For easiest use, create a json file describing your plate layout. It should be formatted as follows:
+5. (Optional) For easiest use, create a json file describing your plate layout. It should be formatted as follows:
 
 ```json
 [
   {
-    "condition": "",
-    "strain": "",
-    "medium": "",
-    "replicate": "",
-    "well": ""
+    "condition": <string>,
+    "strain": <string>,
+    "medium": <string>,
+    "replicate": <string>,
+    "well": <string>
   }
 ]
 ```
 
-Example
-
-```json
-[
-  {
-    "condition": "",
-    "strain": "Maxkat",
-    "medium": "Glucose",
-    "replicate": "1",
-    "well": "A1"
-  },
-  {
-    "condition": "",
-    "strain": "Maxkat",
-    "medium": "Glycerol",
-    "replicate": "2",
-    "well": "A2"
-  }
-]
-```
+An example can be found at `plate_layout_example.json`.
 
 6. Open the script `Plotting Script.ipynb` and click on "Run all"
 
