@@ -28,6 +28,17 @@ An example can be found at `plate_layout_example.json`.
 
 6. Open the script `Plotting Script.ipynb` and click on "Run all"
 
+### How to create a plate_layout.json
+
+You have a couple of options:
+
+- Manually
+- Programmatically
+  - Using the Create Plate Layout.ipynb notebook
+  - Using your own script
+
+Make sure your json is actually valid json (e.g. by copy pasting it into here: https://jsonlint.com/)
+
 ## Troubleshooting
 
 I'm always happy to help - just shoot me an email (mail@timonschneider.de).
