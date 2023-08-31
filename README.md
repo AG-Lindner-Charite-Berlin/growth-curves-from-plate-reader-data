@@ -37,52 +37,15 @@ Original Script Author: https://github.com/he-hai
 
 ## Comments Workshop
 
-- integrate media variable into more general _conditions_ variable (Jan)
+- integrate media variable into more general _conditions_ variable
 - allow for more replicates
-- Explain this:
-
-  ```python
-  configs_MiniKat_without_IPTG = [
-      GrowthCurveConfig(
-          measurement_series=[
-              "A1",
-              "A2",
-          ],
-          aggregation_func="mean",
-          condition="Ace30",
-      ),
-  ]
-
-  experiment = Experiment(
-      title="2023_05_23 MiniKat MX IBA IBU BDO, MiniKat #1 without IPTG",
-      path_to_raw_data="data/2023_05_23 MiniKat MX IBA IBU BDO.xlsx",
-      sheet_name="Sheet1",
-      growth_curve_configs=configs_MiniKat_without_IPTG,
-      measurement_period=10,
-      OD_growth_threshold=0.05,
-  )
-
-  plot_config = PlotConfig(
-      y_scale="linear",
-      x_max=None,
-      y_max=None,
-      save_plot_as="png",
-      is_mean_plot=True,
-  )
-
-  plot_no_numbers(
-      experiment=experiment,
-      plot_config=plot_config,
-  )
-  ```
-
-  - If you make changes to any other files than the current notebook you have to restart kernel
-  - Line style changes must be more accessible
-  - data folder with subfolders explanation in README
-  - explain where and how to change colors
-  - [ ] Allow for flexible well properties
-    - [ ] Extend groupby functionality accordingly
-  - Show how to plot specific number of hours/adjust x scale
+- If you make changes to any other files than the current notebook you have to restart kernel
+- Line style changes must be more accessible
+- data folder with subfolders explanation in README
+- explain where and how to change colors
+- [ ] Allow for flexible well properties
+  - [ ] Extend groupby functionality accordingly
+- Show how to plot specific number of hours/adjust x scale
 
 # ToDo
 
